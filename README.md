@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**tttttkaku/tttttkaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 現在学習中: [学んでいる技術を書く（例：Python,React,AI Agent,English）]
+- 👨‍💻 直近の目標: [PythonのAPIを作成してシステムに繋げる]
+- 📝 定期的に TIL を更新しています
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: [Write about the technology you're learning (e.g., Python, React, AI Agent)]
+- 👨‍💻 Near-term goal: [Create a Python API and connect it to the system]
+- 📝 Regularly updating TIL
+
+---
+
+💡 Happy Hacking;)
